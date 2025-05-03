@@ -48,8 +48,8 @@ Use the following credentials to test authentication:
 ```
 ## ⚙️ Installation & Run
 ### 1. Clone the repo
-git clone [https://github.com/YOUR_USERNAME/fiber-basic.git](https://github.com/chavitdew/Fiber-Basic.git)<br>
-cd fiber-basic
+git clone https://github.com/chavitdew/Fiber-Basic.git<br>
+cd Fiber-Basic
 ### 2. Create .env file
 JWT_SECRET=your_jwt_secret<br>
 SECRET=some_secret_value
