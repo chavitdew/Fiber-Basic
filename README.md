@@ -55,5 +55,8 @@ JWT_SECRET=your_jwt_secret<br>
 SECRET=some_secret_value
 ### 3. Install dependencies
 go mod tidy
-### 4. Run
+### 4.Generate Swagger Docs
+go install github.com/swaggo/swag/cmd/swag@latest<br>
+swag init
+### 5. Run
 go run main.go
