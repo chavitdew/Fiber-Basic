@@ -50,7 +50,7 @@ Use the following credentials to test authentication:
 ### 1. Clone the repo
 git clone [https://github.com/YOUR_USERNAME/fiber-basic.git](https://github.com/chavitdew/Fiber-Basic.git)<br>
 cd fiber-basic
-###2. Create .env file
+### 2. Create .env file
 JWT_SECRET=your_jwt_secret
 SECRET=some_secret_value
 ### 3. Install dependencies
