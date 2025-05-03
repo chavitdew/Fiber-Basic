@@ -45,7 +45,7 @@ Use the following credentials to test authentication:
   "email": "test@test.com",
   "passoword": "password123"
 }
-
+```
 ## ⚙️ Installation & Run
 ### 1. Clone the repo
 git clone [https://github.com/YOUR_USERNAME/fiber-basic.git](https://github.com/chavitdew/Fiber-Basic.git)<br>
