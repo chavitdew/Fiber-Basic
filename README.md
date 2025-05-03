@@ -51,7 +51,7 @@ Use the following credentials to test authentication:
 git clone [https://github.com/YOUR_USERNAME/fiber-basic.git](https://github.com/chavitdew/Fiber-Basic.git)<br>
 cd fiber-basic
 ### 2. Create .env file
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=your_jwt_secret<br>
 SECRET=some_secret_value
 ### 3. Install dependencies
 go mod tidy
